@@ -2639,7 +2639,7 @@
 			(uuid "86e6d311-b0f6-4dc4-ad3e-46a55bc18bb4")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR03")
 					(unit 1)
@@ -2718,7 +2718,7 @@
 			(uuid "740f3522-18ce-4231-b3d5-071134561e1e")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR014")
 					(unit 1)
@@ -2796,7 +2796,7 @@
 			(uuid "51bffb7e-3484-461f-84ec-1f665541bb4c")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR01")
 					(unit 1)
@@ -3020,7 +3020,7 @@
 			(uuid "688a19f5-4e84-45d7-9696-64d9905a6fc9")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "U1")
 					(unit 1)
@@ -3106,7 +3106,7 @@
 			(uuid "c536689b-0328-4306-afe2-f90f8541879a")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "J1")
 					(unit 1)
@@ -3184,7 +3184,7 @@
 			(uuid "fe8e552e-a976-4ef8-8829-8101a25fb8ec")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR05")
 					(unit 1)
@@ -3262,7 +3262,7 @@
 			(uuid "1d4e8a74-d026-4b34-bd81-a6abf1ee3bf5")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR06")
 					(unit 1)
@@ -3348,7 +3348,7 @@
 			(uuid "8a8bb260-3f22-4af2-83f9-46166545a5da")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "J2")
 					(unit 1)
@@ -3434,7 +3434,7 @@
 			(uuid "c2bf258e-0c75-4e27-8822-4cc7bc7d3ba1")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "J3")
 					(unit 1)
@@ -3516,7 +3516,7 @@
 			(uuid "8ed50fa6-7aa9-4ce5-bcd9-d792378ce0fd")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "R2")
 					(unit 1)
@@ -3595,7 +3595,7 @@
 			(uuid "de5bb71f-72ed-49b7-a7ca-da44f1ef31ca")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR015")
 					(unit 1)
@@ -3674,7 +3674,7 @@
 			(uuid "af9bb25e-353b-4e6f-86f7-1627c9964e30")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR09")
 					(unit 1)
@@ -3752,7 +3752,7 @@
 			(uuid "1f0f44e9-e98b-411e-b867-ae125000c5ac")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR011")
 					(unit 1)
@@ -3831,7 +3831,7 @@
 			(uuid "4a83c2a8-ce45-40e2-9576-a8c8a63e94db")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR07")
 					(unit 1)
@@ -3910,7 +3910,7 @@
 			(uuid "85824a22-b7d2-487e-aba1-53d78e59f76c")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR02")
 					(unit 1)
@@ -3989,7 +3989,7 @@
 			(uuid "61c3b692-d245-43f0-9a93-c62be85307ad")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR012")
 					(unit 1)
@@ -4075,7 +4075,7 @@
 			(uuid "61045f8d-4a90-462d-a5f7-4a79dafbe213")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "J4")
 					(unit 1)
@@ -4157,7 +4157,7 @@
 			(uuid "80c3022b-2577-4080-b47f-a8a5c2f36c6b")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "R1")
 					(unit 1)
@@ -4236,7 +4236,7 @@
 			(uuid "7e864de0-7c48-4307-86d9-bc40c1225959")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR04")
 					(unit 1)
@@ -4315,7 +4315,7 @@
 			(uuid "ae0a3ff4-bb84-4b37-9758-bfbfc08177c6")
 		)
 		(instances
-			(project "Telemachus_DAQ"
+			(project "telemachus_daq"
 				(path "/4d6eab87-1eb8-4812-96a4-16a12b97369b"
 					(reference "#PWR013")
 					(unit 1)
