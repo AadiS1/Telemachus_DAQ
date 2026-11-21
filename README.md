@@ -2,6 +2,11 @@
 
 Custom STM32F401-based flight data acquisition (DAQ) board designed in **KiCad 10** for **Turner Fenton Rocketry (TFRA)**. Built to record high-G acceleration, barometric altitude, 9-axis orientation, and environmental telemetry throughout powered ascent and recovery.
 
+## Schematic Preview
+
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/3a3487a3-e9a5-4518-9f5e-45405c3a60f2" />
+
+
 ## Hardware Overview
 
 * **Microcontroller:** `STM32F401CCUx` (ARM Cortex-M4, 84 MHz, UFQFPN-48)
